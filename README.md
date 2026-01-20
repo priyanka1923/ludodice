@@ -1,0 +1,1 @@
+The Ludo Dice Game is a classic board game where players roll a dice to move their tokens from start to finish. Strategy, luck, and timing play key roles as players race opponents, capture tokens, and aim to be the first to reach home.
